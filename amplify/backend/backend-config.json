@@ -21,5 +21,6 @@
       "providerPlugin": "awscloudformation",
       "service": "AppSync"
     }
-  }
+  },
+  "hosting": {}
 }
